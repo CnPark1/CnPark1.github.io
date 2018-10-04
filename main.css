@@ -1,0 +1,14 @@
+body {
+		background-color: black;
+		font-family:"comic sans";
+}
+
+h1 {
+	font-size: 48px;
+	color: white;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
