@@ -14,12 +14,17 @@ h1 {
 
 .jumbotron {
 	background-image: url("https://images.pexels.com/photos/340901/pexels-photo-340901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	margin-bottom: 0px;
+	padding: 60px
 }
 
 .Links {
 	background-image: url("https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Money/July/CR-Money-InlineHero-Back-to-School-Supplies-07-18");
-	border-style: dashed
+	border-style: dashed;
+	background-attachment: fixed;
+	padding: 50px
 }
 
 h2 {
@@ -31,11 +36,28 @@ h3 {
 	font-size: 40px
 }
 
+h4 {
+	font-weight: Bold;
+	font-size: 50px;
+	color: black;
+}
+
 p {
 	font-size: 25px;
 }
 
 .Info {
-	margin-left: 20px;
-	margin-top: 20px
+	background-image: url(https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/coronet-peak.jpg?focalpointx=50&focalpointy=50&height=420&outputformat=jpg&quality=75&source=3009275&transformationsystem=focalpointcrop&width=960&securitytoken=D548E51F9461CFBABF3820AC654B4E72);
+	background-attachment: fixed;
+	background-size: 1600px;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	padding: 40px
+}
+
+#Zag {
+	font-size: 25px;
+	overflow-wrap: break-word;
+	border: 1px solid black;
+	background-color: white
 }
