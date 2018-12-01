@@ -1,5 +1,5 @@
 body {
-		background-color: burlywood;
+		background-color: white;
 		font-family:"comic sans";
 }
 
@@ -13,13 +13,29 @@ h1 {
 }
 
 .jumbotron {
-	background-image: url("https://images.pexels.com/photos/340901/pexels-photo-340901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")
+	background-image: url("https://images.pexels.com/photos/340901/pexels-photo-340901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	margin-bottom: 0px;
+}
+
+.Links {
+	background-image: url("https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Money/July/CR-Money-InlineHero-Back-to-School-Supplies-07-18");
+	border-style: dashed
 }
 
 h2 {
 	font-weight: Bold
 }
 
+h3 {
+	font-weight: Bold;
+	font-size: 40px
+}
+
 p {
 	font-size: 25px;
+}
+
+.Info {
+	margin-left: 20px;
+	margin-top: 20px
 }
