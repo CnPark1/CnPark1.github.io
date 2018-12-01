@@ -17,14 +17,13 @@ h1 {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	margin-bottom: 0px;
-	padding: 60px;
+	padding: 80px;
 }
 
 .Links {
 	background-image: url("https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Money/July/CR-Money-InlineHero-Back-to-School-Supplies-07-18");
-	border-style: dashed;
 	background-attachment: fixed;
-	padding: 50px
+	padding: 70px
 }
 
 h2 {
@@ -52,7 +51,7 @@ p {
 	background-size: 1600px;
 	background-position: bottom center;
 	background-repeat: no-repeat;
-	padding: 40px
+	padding: 60px
 }
 
 #Zag {
